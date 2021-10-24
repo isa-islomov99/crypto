@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[242],{854:function(e,l,t){"use strict";t.r(l);var n={name:"SplideSlide"},c=t(9),component=Object(c.a)(n,(function(){var e=this,l=e.$createElement;return(e._self._c||l)("li",{staticClass:"splide__slide"},[e._t("default")],2)}),[],!1,null,null,null);l.default=component.exports}}]);
